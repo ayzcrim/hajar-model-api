@@ -2,7 +2,8 @@ pandas
 scikit-learn
 huggingface_hub
 flask
-gunicorn
-tensorflow==2.11.0
+tensorflow
+transformers
 keras==2.11.0
-transformers==4.38.2
+tf-keras
+gunicorn
