@@ -1,0 +1,4 @@
+flask
+transformers==4.52.4
+tensorflow==2.18.0
+huggingface_hub
